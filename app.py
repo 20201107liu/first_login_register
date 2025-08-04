@@ -9,10 +9,6 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 """
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
